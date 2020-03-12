@@ -1,19 +1,43 @@
 {
-  "Name": "test_dir",
-  "DateCreated": "12.03.2020 14:58:36",
+  "Name": "ForTest",
+  "DateCreated": "12.03.2020 14:56:36",
   "Files": [
     {
-      "Name": "one_more_test_txt.txt",
-      "Size": "77 B",
-      "Path": "D:\\dotNET\\MyProjects\\TestDirFileManager_json\\TestDirFileManager\\ForTest\\test_dir\\one_more_test_txt.txt"
+      "Name": "one_more_txt.txt",
+      "Size": "42 B",
+      "Path": "D:\\dotNET\\MyProjects\\TestDirFileManager_json\\TestDirFileManager\\ForTest\\one_more_txt.txt"
+    },
+    {
+      "Name": "test_txt.txt",
+      "Size": "90 B",
+      "Path": "D:\\dotNET\\MyProjects\\TestDirFileManager_json\\TestDirFileManager\\ForTest\\test_txt.txt"
     }
   ],
   "Children": [
     {
-      "Name": "one_more_test",
-      "DateCreated": "12.03.2020 16:33:12",
+      "Name": "test",
+      "DateCreated": "12.03.2020 16:33:32",
       "Files": [],
       "Children": []
+    },
+    {
+      "Name": "test_dir",
+      "DateCreated": "12.03.2020 14:58:36",
+      "Files": [
+        {
+          "Name": "one_more_test_txt.txt",
+          "Size": "77 B",
+          "Path": "D:\\dotNET\\MyProjects\\TestDirFileManager_json\\TestDirFileManager\\ForTest\\test_dir\\one_more_test_txt.txt"
+        }
+      ],
+      "Children": [
+        {
+          "Name": "one_more_test",
+          "DateCreated": "12.03.2020 16:33:12",
+          "Files": [],
+          "Children": []
+        }
+      ]
     }
   ]
 }
