@@ -1,0 +1,11 @@
+D:\dotNET\MyProjects\TestDirFileManager_json\TestDirFileManager\TestDirFileManager\bin\Debug\netcoreapp3.0\TestDirFileManager.exe
+D:\dotNET\MyProjects\TestDirFileManager_json\TestDirFileManager\TestDirFileManager\bin\Debug\netcoreapp3.0\TestDirFileManager.deps.json
+D:\dotNET\MyProjects\TestDirFileManager_json\TestDirFileManager\TestDirFileManager\bin\Debug\netcoreapp3.0\TestDirFileManager.runtimeconfig.json
+D:\dotNET\MyProjects\TestDirFileManager_json\TestDirFileManager\TestDirFileManager\bin\Debug\netcoreapp3.0\TestDirFileManager.runtimeconfig.dev.json
+D:\dotNET\MyProjects\TestDirFileManager_json\TestDirFileManager\TestDirFileManager\bin\Debug\netcoreapp3.0\TestDirFileManager.dll
+D:\dotNET\MyProjects\TestDirFileManager_json\TestDirFileManager\TestDirFileManager\bin\Debug\netcoreapp3.0\TestDirFileManager.pdb
+D:\dotNET\MyProjects\TestDirFileManager_json\TestDirFileManager\TestDirFileManager\obj\Debug\netcoreapp3.0\TestDirFileManager.csprojAssemblyReference.cache
+D:\dotNET\MyProjects\TestDirFileManager_json\TestDirFileManager\TestDirFileManager\obj\Debug\netcoreapp3.0\TestDirFileManager.AssemblyInfoInputs.cache
+D:\dotNET\MyProjects\TestDirFileManager_json\TestDirFileManager\TestDirFileManager\obj\Debug\netcoreapp3.0\TestDirFileManager.AssemblyInfo.cs
+D:\dotNET\MyProjects\TestDirFileManager_json\TestDirFileManager\TestDirFileManager\obj\Debug\netcoreapp3.0\TestDirFileManager.dll
+D:\dotNET\MyProjects\TestDirFileManager_json\TestDirFileManager\TestDirFileManager\obj\Debug\netcoreapp3.0\TestDirFileManager.pdb

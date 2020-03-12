@@ -1,0 +1,19 @@
+{
+  "Name": "test_dir",
+  "DateCreated": "12.03.2020 14:58:36",
+  "Files": [
+    {
+      "Name": "one_more_test_txt.txt",
+      "Size": "77 B",
+      "Path": "D:\\dotNET\\MyProjects\\TestDirFileManager_json\\TestDirFileManager\\ForTest\\test_dir\\one_more_test_txt.txt"
+    }
+  ],
+  "Children": [
+    {
+      "Name": "one_more_test",
+      "DateCreated": "12.03.2020 16:33:12",
+      "Files": [],
+      "Children": []
+    }
+  ]
+}
